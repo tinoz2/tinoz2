@@ -26,6 +26,5 @@ Me destaco por mi **disciplina y constancia** a la hora de estudiar y aprender n
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=tinoz2&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/tinoz2)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=tinoz2&theme=material-palenight)](https://github.com/tinoz2)
 </div>
