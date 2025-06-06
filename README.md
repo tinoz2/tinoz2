@@ -14,8 +14,6 @@ Me destaco por mi **disciplina y constancia** a la hora de estudiar y aprender n
 - 🧠 En mi tiempo libre suelo crear proyectos personales para mejorar mis skills, además de seguir perfeccionando mi inglés.
 - 📫 Podés contactarme en: <a href="mailto:despegar.conti@gmail.com">despegar.conti@gmail.com</a>
 
----
-
 ## Skills
 
 <span>
