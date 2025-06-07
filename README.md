@@ -3,7 +3,7 @@
 ***- Sobre mí***
 
 Soy estudiante de la **Tecnicatura Universitaria en Programación** en la UTN y cuento con nivel de inglés **B2**.  
-Actualmente me encuentro aprendiendo **Java** y **Angular**, dos tecnologías que me entusiasman por su estructura, y con las que busco desarrollarme profesionalmente.
+Actualmente utilizo **Java** y **Angular**, dos tecnologías que me entusiasman por su estructura, y con las que busco desarrollarme más a fondo.
 
 Me destaco por mi **disciplina y constancia** a la hora de estudiar y aprender nuevos lenguajes o herramientas.
 
