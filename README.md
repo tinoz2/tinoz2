@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola, soy Santino</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
+***- Sobre mí***
 
 Soy estudiante de la **Tecnicatura Universitaria en Programación** en la UTN y cuento con nivel de inglés **B2**.  
 Actualmente me encuentro aprendiendo **Java** y **Angular**, dos tecnologías que me entusiasman por su estructura, y con las que busco desarrollarme profesionalmente.
