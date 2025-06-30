@@ -23,8 +23,4 @@ Me destaco por mi **disciplina y constancia** a la hora de estudiar y aprender n
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </span>
-
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=tinoz2&theme=material-palenight)](https://github.com/tinoz2)
 </div>
